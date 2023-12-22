@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opshauscartrite
 - 👀 I’m interested in everything pentesting
-- 🌱 I’m currently learning as much ascI can
+- 🌱 I’m currently learning as much as I can
 - 💞️ I’m looking to collaborate on casino software
 - 📫 How to reach me https://t.me/+P6I8ZE8yJqhiMjdh
 
